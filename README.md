@@ -1,6 +1,3 @@
-Here's the markdown content you requested:
-
-````markdown
 # LeetCode 75 DSA Solutions in Python
 
 A curated collection of LeetCode problem solutions implemented in Python, presented in Jupyter Notebook format for clarity and interactive learning. This repository aims to provide well-structured solutions to 75 essential LeetCode problems, covering a range of topics crucial for mastering Data Structures and Algorithms (DSA).
@@ -36,7 +33,6 @@ To explore or run the solutions locally, follow these steps:
   ```sh
   pip install notebook
   ```
-````
 
 ### Steps:
 
