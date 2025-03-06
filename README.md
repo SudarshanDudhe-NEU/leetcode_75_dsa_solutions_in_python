@@ -128,8 +128,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ![GitHub stars](https://img.shields.io/github/stars/SudarshanDudhe-NEU/leetcode_75_dsa_solutions_in_python?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/SudarshanDudhe-NEU/leetcode_75_dsa_solutions_in_python?style=social)
-
-```
-
-Let me know if you'd like any further adjustments!
-```
