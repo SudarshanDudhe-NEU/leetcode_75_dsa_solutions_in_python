@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Hidden macOS files
+.DS_Store
+
+# Virtual environments
+venv/
+.env
+.venv
