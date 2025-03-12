@@ -180,3 +180,5 @@ cython_debug/
 venv/
 .env
 .venv
+
+.vscode/
